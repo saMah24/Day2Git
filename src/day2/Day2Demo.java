@@ -5,8 +5,9 @@ public class Day2Demo {
 	public void getInfo() {
 		System.out.println("Pushing code...");
 		
-		System.out.println("Pushing 2nd time...");
-		
-		
+		System.out.println(2 * 3);
 	}
+	
+	
+	
 }
