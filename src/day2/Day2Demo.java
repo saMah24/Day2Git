@@ -13,4 +13,6 @@ public class Day2Demo {
 	
 	*/
 	
+	int age = 12;
+	
 }
